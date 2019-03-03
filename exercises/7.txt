@@ -1,0 +1,2 @@
+Arrays are ordered, integer-indexed collections of any object.
+A Hash is a collection of key-value pairs
